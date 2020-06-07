@@ -1,0 +1,14 @@
+Travel Best Path: 41 - 54 - 14 - 6 - 71 - 66 - 58 - 24 - 58 - 66 - 71 - 6 - 14 - 54 - 41
+
+Travel Total Cost: 2058
+
+
+	**********	
+
+Alternatif Travel Path: 41 - 54 - 14 - 6 - 40 - 66 - 58 - 24 - 58 - 66 - 19 - 18 - 14 - 54 - 41
+
+Alternatif Travel Total Cost: 2230
+
+
+	**********	
+
